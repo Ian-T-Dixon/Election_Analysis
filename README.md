@@ -30,7 +30,7 @@ Software: Python 3.10.5, Visual Studio Code 1.38.1
 - **Diana DeGette:** *73.8% (272,892)*
 - **Raymon Anthony Doane:** *3.1% (11,606)*
 
-**ELECTION RESULTS**
+**ELECTION RESULTS:**
 
 - **Winner:** *Diana DeGette*
 
